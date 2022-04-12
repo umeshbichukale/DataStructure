@@ -1,2 +1,2 @@
-# DataStructure
-All Data Structure Problems and it's solution
+# InterviewBit
+All Data Structure and Algorithm Problems and it's solution from InterviewBit
